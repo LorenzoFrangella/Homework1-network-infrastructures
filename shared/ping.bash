@@ -1,3 +1,4 @@
+sleep 10
 date
 cat /shared/ping_list.txt |  while read output
 do
