@@ -1,0 +1,6 @@
+ip addr add 151.100.161.254/24 dev eth0
+
+ip route add default via 151.100.161.1
+
+
+/shared/ping.bash

@@ -1,0 +1,5 @@
+/etc/init.d/networking restart
+
+ip route add default via 151.100.160.1
+
+/shared/ping.bash
