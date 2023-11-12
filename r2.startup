@@ -11,4 +11,3 @@ ip route add 151.100.164.0/22 via 10.0.0.7
 ip route add 151.100.161.0/24 via 10.0.0.9
 
 
-/shared/ping.bash
